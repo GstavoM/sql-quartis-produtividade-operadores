@@ -1,0 +1,1 @@
+# sql-quartis-produtividade-operadores
